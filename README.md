@@ -21,7 +21,7 @@ Le projet est développé en Python et s'appuie sur la bibliothèque `automata-l
 ### 1. Cloner le dépôt
 
 ```bash
-git clone URL_DU_DEPOT
+git clone https://github.com/camarahaza2005-glitch/Projet_Automata.git
 cd Projet_Automata
 ```
 
