@@ -1,0 +1,19 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Tests
+.pytest_cache/
+
+# Configuration des éditeurs
+.vscode/
+.idea/
+
+# Distribution
+build/
+dist/
+*.egg-info/
+.ipynb_checkpoints/
